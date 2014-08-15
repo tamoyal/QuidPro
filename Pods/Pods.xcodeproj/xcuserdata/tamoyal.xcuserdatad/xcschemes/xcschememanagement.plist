@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-AFNetworking.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-SSKeychain.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-VENCore.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-Venmo-iOS-SDK.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>268C160C27BA48739496A153</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>52D7ED1842224689AFC93CC5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>674239B1861F43CC9840DBC1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>71E622C7391C465D9D0D5406</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>7D9F0C9442DB441583BEC0C0</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
